@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "neodrive_connector")(type "KiCad")(uri "${KIPRJMOD}/lib_symbol/neodrive_connector.kicad_sym")(options "")(descr ""))
+  (lib (name "neodrive_components")(type "KiCad")(uri "${KIPRJMOD}/lib_symbol/neodrive_components.kicad_sym")(options "")(descr ""))
+)
